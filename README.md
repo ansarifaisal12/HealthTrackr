@@ -1,6 +1,5 @@
 # NutriGenie App
-
-![Uploading Screenshot 2024-01-28 045020.png…]()
+<img width="960" alt="Screenshot 2024-01-28 045020" src="https://github.com/ansarifaisal12/HealthTrackr/assets/115267921/45de3232-69b7-4e03-b0ee-dc5fa0f97ab3">
 
 
 ## Overview
