@@ -1,6 +1,7 @@
 # NutriGenie App
 
-![NutriGenie Logo](app_logo.png)
+![Uploading Screenshot 2024-01-28 045020.png…]()
+
 
 ## Overview
 
