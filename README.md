@@ -1,11 +1,10 @@
 ## Health Tracker App
 
-![Uploading Screenshot 2024-01-28 045616k.png…]()
+<img width="946" alt="Screenshot 2024-01-28 045616" src="https://github.com/ansarifaisal12/HealthTrackr/assets/115267921/4e2121b0-3641-4a0f-b339-dbc363a9f578">
 
-![Uploading Screenshot 2024-01-28 045824hhh.png…]()
+<img width="946" alt="Screenshot 2024-01-28 045824hhh" src="https://github.com/ansarifaisal12/HealthTrackr/assets/115267921/6d2d560a-d911-43e7-aa39-b1f541a4290a">
 
 ## Overview
-
 NutriGenie is a health management app designed to help users make informed decisions about their nutrition and well-being. The app leverages advanced technologies, including the Google Gemini Pro Vision API, to analyze food images and provide detailed nutritional information.
 
 ## Features
